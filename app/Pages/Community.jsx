@@ -8,7 +8,7 @@ const Community = () => {
         {" "}
         <div>
           <img
-            src="https://s3-alpha-sig.figma.com/img/4b9c/9dd8/5b12efb01c86dc30398b2f79476ba29e?Expires=1718582400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=f5k0qmEzOQSn6RvVjxf3bAm~vwFNJWQTN7aYQMwmGixhrBi7vCz4EiRt4tpTIPIn294oUOXIhWuo8e~6Yb5uzrhgIGSjzPDnDqmpOBFK7qJf7rxO1y39k7aSGoY0Se7YwdkuAbmEQkMI8D~MaydCgdtYwLiSaVUEXGOPNuC7fHCrshN8FRGSWoFN0ShwPrSBfJOd~t6fCUOkO64jRmFFXy8VL3OQLSG0Y0Y31t8TXyq6PFt6E4cZhJrPY53x8bAFe1MNuge5byVR~pZZT9dsXb2XnbrYbByBwdbCuT6T9US12cRUsNWoJMCpzicJ2d1bOg~JKmlEKfpOtUVAbl~-QA__"
+            src="https://s3-alpha-sig.figma.com/img/4b9c/9dd8/5b12efb01c86dc30398b2f79476ba29e?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=EySiIJubNvkOSc5awJi7TMs2rwivfdSSQsynYkylABPQ59-SShgor7nxF7k5iK7JXZuI~pGSTuDa1L3hMdhCEnIZdiPRooa2kZiu-X3jufx2GF-p2Lz5rv62-tcU5l6Ii1i73nWzN~xHWwXE5TlG~9m63rWhL0EoayUs6t97rLoki7CKsBjvYvJMdF55dP-zUd5rj55BtwnGW9DAyjP7crIvw-8-VvFBoexy2W7YY-ljAF03VFMHJuk7EMxcQoIudvZtfF10cDVPY1uJMfqRFhvSPTkIGUxY3N20m8Y2HmuiA~Ptp4aih-nAKb1aGUhZFG6zG4AhReJtEVCpp6dWKQ__"
             alt=""
           />
           <h1 className="font-bold text-3xl py-5">Are You A ROS Developer?</h1>
@@ -24,7 +24,7 @@ const Community = () => {
             Join The Greatest Robotics Community
           </h3>
           <img
-            src="https://s3-alpha-sig.figma.com/img/0865/be49/fa22f457b98913ea42974e3352712bb7?Expires=1718582400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IpjHc41KAqDRx3k2QJKnUJiVSqjSeOZsge1GMcfjwpjRO3lpCKS2f5i2QMecedvNLdVcoZPSCqy5FqY5dm9Bz4a29q5F9SEsx6WQayP60xYMz4NUwhq6XF4m3sqlIQ0MC2vNZlq~BL7TkO-ChEWxrZUrHV6jI1lAlGilAspariTL1Y9Xe3aHDE9WawLHsSpVATxw4C3I7omIlXwVVJSrvBDm67gpmnNz8dyKEmS4awXrXkFaPusJGFNhG0jfps8FGsurobQZEX2isPu2JuQvMikkndvlt0Hmmkq4JL77zZqrs-GLbv4iZHa~4xAY19MlAaIoKM9mljRizmaqAjdphg__"
+            src="https://s3-alpha-sig.figma.com/img/0865/be49/fa22f457b98913ea42974e3352712bb7?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=a4TyHWUknb1OfdtcZe8buL8SYTf0PTc~IoSK70d2Vzly76E2KG9dl~e3u8T75ZvqejW1p6twU-84uF5l3j~F9Gkof9CfwzWuotaREFeH0RcatB1knZdtiSU9OLurxdQLxM6q6RSOFst7NSUeqK~DYrl49xBrd6896ylvxFx5mMlB0~FuzMFKJ1y91HJgQTfFUWkAJ4L5RsvvXBPtonZg7FWtLtnjPJRN-j9m93YBWhkQ2sqEwdlPMtbuM2tbPyKrjrpux8ZGAnrdmZoVgJTCwE-UmOkEuSwU2o~SXxaNNZFtCjn4V9~bkYj-T2rfbtL-ihVF8vL3gezXs~VLX2ORhA__"
             alt=""
           />
         </div>

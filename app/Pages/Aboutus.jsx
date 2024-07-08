@@ -9,7 +9,7 @@ const Aboutus = () => {
       <div className="flex mt-10">
         <div>
           <img
-            src="https://s3-alpha-sig.figma.com/img/0b51/e4a9/9a46a3c99a056f1f4f5392c5c84641a4?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DWbyCnWwV-v3tSbZTVPi-lyxvJCJlBIi-iAjxatrPtLONEiCmyQW9UlQ5hUeZDTD~djNiLrbfwkSQ64PM1~dLQMni8mEXKlnIsmjEaEyT6LTH69ANlkT8jPa~7ZtOvHfjkE2UDJp43jyrSKREzbQnd1GcgTb~JC6TzTfQrFD5lezng97gqJ3U7YmLD-HFOAXM8MM4MORjtp04KoCR1UwCoZJ7BCNRRml3j4JJG0WRjvmonEKslIE6mZiiQpkKR-SfEeY0e7HyFtoXv~U6cD3jYIC0xYdMYty~XfuxUzwWqonDKnqxkaMCXsTg~zOMklcGO9ujeg7zzdjwjoKDxDD1A__"
+            src="https://s3-alpha-sig.figma.com/img/0b51/e4a9/9a46a3c99a056f1f4f5392c5c84641a4?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TS1Mb9zhQV4ZtuQxmIXan4I-ScaA6mkWl7MHiJ~UYWD71Gohflx-91Fn3GU1obV-ld84K97H-ok5QPPAz6t2GfJRtbm126Pdnyfpz-jf-I18jOFTFL62Nw6PyggS7b5AE3gE87Vh9fMOY3hbh1n4Ni4sdzU3CWRWrwQABQK3C7Eyr91jvpK-seAueseX2Z4OHaW2AREZpk7VQjATV-YIe9DlLEKCgTJNIDvAcstFhoF05UdERMWq2kA2tI9SohmVDukP7kGxy7hdBrE8v7YBClD~y0tCWnGG8dqWr~Q-k5NWRmKnNfIg79iGwWdifjYtGtjTW1MrBtG8vdGKbQI74w__"
             alt="KKR"
             className="w-1/2 border border-white rounded-3xl ml-20"
           />

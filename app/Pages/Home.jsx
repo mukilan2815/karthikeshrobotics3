@@ -22,7 +22,7 @@ const Home = () => {
         </div>
         <div className="md:w-1/2 p-8">
           <img
-            src="https://s3-alpha-sig.figma.com/img/3df3/e2b3/0381866fb50add01b545366b08ec5172?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LBmOdup3R6tipOZR1GN55O4CCf7iYd~MwRvwDSuhgcVN61UzzT919OFhd7SkBK8853naO9qaaRYl7iK2mLJO0G1iHefoM2uPidHki8obZZPVbeOo~q6B3Y1z-JwhL-fx3jHGVwiZqMoyH5ZerM2f-HXfIrzguTINER3PX55BqfF-kU2Kby07H2nEi1eKIWcOJcTIsHofo7kIL8PS12Jm4nixl0ICckxkkmEERJitPPN8kLHc1aQLfuaPINd1-fr170fH17sW6tspNYz0NV~NFK4E7fGbo2ELnH89uBJfQwoVazpV97naWgvZq26wgSRz5GD-n7qrwKBseI2LzerYfg__"
+            src="https://s3-alpha-sig.figma.com/img/3df3/e2b3/0381866fb50add01b545366b08ec5172?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ZqfD502kHh3~~ycfmtufFRJq6css4D-lyhvRkoiNqn8Y919w13PFmVzKNOZ00M1bV19J29qd3qdeefB881G5eElmhB-SCxBFx~ovxZxDodVMWSgPVoUiIUKJOI1ifTj-hz~YSALIPA-oJkM9LmnsSVXAnUmn-i6TRjvTA2JJM9emGcfQSRFChwYmRgfl-PxIC1ICJkXC0IDCiw-SzbfuaHPmbpbV~E0hi1xrQADaFWg5DMJI56lWlShK7c2Cmxm~1XU-lWa9DUQa2ZcNp70EbIjfAE3T-MjuEnlyhsE3RgjQMjj1~z~qtZvVUHTzE24vuqsdZNSA8gx81hVzrxbqqQ__"
             alt="Image"
             className="w-full h-1/3 "
             data-aos="fade-up"

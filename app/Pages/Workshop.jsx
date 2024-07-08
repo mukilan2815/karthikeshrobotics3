@@ -26,7 +26,7 @@ const Workshop = () => {
         </div>
         <div className="w-1/2">
           <img
-            src="https://s3-alpha-sig.figma.com/img/1d52/4db3/bd0e4fd58a17e7e856d618a674ab3582?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ICjJtvZInWxeAuUq9eFIXXeGNv55s9iVmxdMsBtueH3sRCwQ3lodrSq5jiBR6f5ePl75W2AjVrEkSwIthLLpUkdVo73-hyt1vnvHsU4LryLe58WTdM3DsjePIxCNpoAO8pJP8kdQzJX0IAUOUvtYtxNHgemE~WcQpeCPOFTLkPFhwafunx-GpK~d-R~rnzgeKcDZ8ARCHn04QA2OTVmPSu0n01VArrjBEpmOkio-PKBq21ptu6nrb5CJa6cKpfvDxwEHs7T6ludY24nsJn2BZUMuR117ZAmjFgybwQ~~5bQUjugtLALVllKGcz-DHIKNDenbK8~QvF9k5RfJANR6zQ__"
+            src="https://s3-alpha-sig.figma.com/img/1d52/4db3/bd0e4fd58a17e7e856d618a674ab3582?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ZvzE0ybzEoAkHtIblFpIdjiKoFtZ-hRf05M3HnF2nJbWjl4w2BRp13~2Vz1AWo7T9TN-KZ-Wxyj~neSpFVYEwaupUoW9RydN0kAiQxSfa0MLUG1oYA94lcymt64zI1efeoxzy3Uo-4Dv21D7RPjx161IbFm0ai08i2M2rArD~WnMn1kWHnJTcqPeXw~uX-kNeA9d4QfqZ3AAeUGJEkPeKGV8qB38VCrCXCMXEU-GcMdi5ha2F~sjbV-zXxpUd~mOYmv7tjY25e3kk00~SYXfZ8rW269cumSlrcXVngTSqanM-H2EHNA1AfjtV0CZETxUcAjMiJv7Am4-7i2biTBfBg__"
             alt=""
             data-aos="fade-left"
           />

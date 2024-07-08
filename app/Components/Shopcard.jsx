@@ -8,7 +8,7 @@ const Shopcard = () => {
       <a href="#">
         <img
           className="p-2 rounded-lg bg-white"
-          src="https://s3-alpha-sig.figma.com/img/5d5c/2e52/50752d55f8b60f2aa2923183dadbc135?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=c9kIMKN9TFfi9RWzoZ3aUPCqL9DKz8x4kpc5Mc5dSmFCRECcWaSiCeKwnyNd8hnhjunRzVqKtrufqAPULgT06rzqqyDMDNCP-zWVxoOqiKWu7EniqinW7PDH2bkystvxAvu6gRP9pZ9Ml7g8p4TfOgyJF4GxpchWadla3XT54w7kIxeeV3WO-JB1qeaPZ3zlXW2ikAB649dUKG5idiwLyR205TZvykTiy0aitFJuSd5htE9SJBED73AKjlIYmx6ol6jw4lR0SkNDnvQtfaKEekHYCUzWHIHmshdd5iDwNglqkaDGywbcrQnac6eSSgE0xz3SPygGag1LlYlp6h1pjw__"
+          src="https://s3-alpha-sig.figma.com/img/67ae/04f8/570d10822680505756d53d10cdeb8057?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=eAteNo1J59SmEAyf172QzhWzNy7Ey5uWBp0NA1jnYJc345wF3R1NnUlz0~fmWDmYXghBn70kc64P4bhk7KmoNUAHVd3~r8JWp3a-4cpLii8pBUbzFIiTJefhTTbdqg7JGEgw3V2zmEt~a7eAvS6iMfAifTNZIXM6-ORbAX3ldXAWW7WPgHPI1fmrKYzcWCi~zx1VFaB0-ZPXO28drQSEYxb3-mjntXBR7QpXd6lg3zcbKZR5DHeIUnAAt2bm-JWabJi~TJBIzWPlK1sOlip2HDShIj7BnWRFHxZzvZVVw-Z5Qi~R3GmZ1LzxBcPO1LG7j6mS~3p2oz5gtsTTpRLJsA__"
           alt="product image"
         />
       </a>

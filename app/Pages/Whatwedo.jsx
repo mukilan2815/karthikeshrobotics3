@@ -26,7 +26,7 @@ const Whatwedo = () => {
               data-aos="fade-right"
             />
             <img
-              src="https://s3-alpha-sig.figma.com/img/5488/0a2a/03056713eb60d47d374633107d60acf6?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KLx5B~3Wts5nBw34NprvFWbM1pUxs1YOqbSkRyCPcz7jr~dfcjy27n8Ax5zjrfIJJDucIjoJzOrez5~ReE8SIay0wwAMeCnAfw5hZzbbJUqXFnXr9SdTD~gG6IPmSXheLS3aQ00GugBQxQ-QooyBIf6Mmrz5AJFDhH5qpe8aUsWmke1Lp8nFMfQUpb5VbnUoYQM47DqGJKcc~JRwVzO1AWPzYUcsNIMudBAjar5K3~rxzFJomJRTtcesCEQ8RwTJubdSwsGx~TU8CIdmf9itqsDGnQvlN9oZesigWctml7VYUn6-9Mdt809UzzRg0qKn1LjVKn0mvTw-AnkECHJQ3Q__"
+              src="https://s3-alpha-sig.figma.com/img/5488/0a2a/03056713eb60d47d374633107d60acf6?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=koskzwjM-Cy8CTOigOfipHkw7vPo0JEUvrVmqWjEL7ZI0msGIib66-1lVj5gixFljWgsGJUtX52~xYVNY9JEpxuuZP9wRp2uvJ2JdsjcCOXc6bSfq8S~NBy097kgGPzFB8IStgQcpwfiUCnY1we2NCcSvaIVKnitEO5iqaJHTWMhlLFVJ1I183tmpQvTduoedZEhz3CS7j2BFatzxv2TVvoUfo2HrR7rHG90OXT6ewqtL45Istj1NA55gAcmrMDvykEz8wPTu6e5SQuim1UaXg~wbNlOe3UrljgxZDH~bhCPzg12BSrCoS0RLRERVA420Eh2ZG-WsFQHGhJLoT-ygw__"
               alt=""
               className="absolute w-1/6 z-0"
             />
